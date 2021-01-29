@@ -11,7 +11,7 @@ node app.js
 
 The generated HTML file contains a card for each team member. The manager card includes the manager's name, ID, email and office number.  The engineer card includes the engineer's name, ID, email, and GitHub repo link.  The intern card includes the intern's name, ID, email, and the name of their school.
 
-Because the application is not deployed, a video demonstrating its functionality is included.  The video was created using Screencastify and a link to it is included below. A [test team.html file](./output/team.html) has also been included to show an example of a generated HTML file.
+Because the application is not deployed, a video demonstrating its functionality is included.  The video was created using Screencastify and a link to it is included below. A [test team.html file](./Develop/output/team.html) has also been included to show an example of a generated HTML file.
 
 Video demo of the application: *Note: The application may have been slightly updated since recording demo*
 [![Video](./Assets/screenshot.PNG)](https://drive.google.com/file/d/11Y8WhR4ZUrLrsilau0UCbpgKThgsRRok/view?usp=sharing)
