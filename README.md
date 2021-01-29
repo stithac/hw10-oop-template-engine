@@ -22,6 +22,13 @@ Video demo of the application: *Note: The application may have been slightly upd
 ```bash
 node i --save
 ```
+## Features
+* The user input is run through a validation to make sure each input is in the right format.  Validation examples are shown in the demo video above.
+    * managerName, internName, engineerName must all be at least one character
+    * managerOfficeNumber must be 10 digits
+    * managerId, internId, engineerId must all be 5 characters long
+    * engingeerGithub must be at least one character
+    * internSchool must be at least one character
 
 ## Known Bugs
 Site has no known bugs
@@ -29,6 +36,7 @@ Site has no known bugs
 ## Technologies Used
 * node.js
 * inquirer.js
+* Bootstrap
 
 ## Contribution Guidelines
 Direct link to repository: https://github.com/stithac/hw10-oop-template-engine
