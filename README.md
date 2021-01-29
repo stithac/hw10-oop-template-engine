@@ -20,7 +20,7 @@ Video demo of the application: *Note: The application may have been slightly upd
 * Create a `.gitignore` file and include `node_modules/` and `.DS_Store/`
 * Install npm dependencies using the following command:
 ```bash
-node i --save
+npm i --save
 ```
 ## Features
 * The user input is run through a validation to make sure each input is in the right format.  Validation examples are shown in the demo video above.
