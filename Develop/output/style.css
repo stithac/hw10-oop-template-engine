@@ -1,0 +1,53 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: #387E81;
+    /* color:white; */
+    /* font-family: 'Jacques Francois Shadow', cursive; */
+    /* font-family: 'Gloria Hallelujah', cursive; */
+    font-family: 'Shadows Into Light', cursive;
+    border-bottom: 5px solid black;
+    padding: 10px;
+}
+h1 {
+    font-weight: bold;
+    font-size: 56px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 18px;
+}
+.team-name {
+    color:white;
+    font-size: 36px;
+}
+
+.employee-card {
+    margin: 0 15px;
+    width: 300px;
+    display: inline;
+    box-shadow: 1px 5px 10px #212529;
+}
+
+.card-header {
+    background-color:black;
+    color: white;
+    font-size: 24px;
+}
+
+#imgGif1 {
+    max-width: 100px;
+    height: auto;
+    align-self: center;
+    margin: 0 auto;
+    display: inline-block;
+    border-radius: 10px;
+}

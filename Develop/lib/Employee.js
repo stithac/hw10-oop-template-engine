@@ -4,11 +4,10 @@
 class Employee {
 
     // Constructor automatically invoked when class called
-    constructor(name, id, email, role) {
+    constructor(name, id, email) {
       this.name = name;
       this.id = id;
       this.email = email;
-      this.role = role;
     }
 
     // getName method returns the name passed in
